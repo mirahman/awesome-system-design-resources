@@ -43,6 +43,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 - [BFF vs API Gateway Pattern](https://alirezafarokhi.medium.com/bff-pattern-vs-gateway-pattern-45706ffb9978)
 - [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
+- [Geo Hashing](https://www.pubnub.com/guides/what-is-geohashing/)
 
 ## System Design Interview Problems
 ### Easy
@@ -105,6 +106,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
+- [Why Uber Engineering Switched from Postgres to MySQL](https://www.uber.com/blog/postgres-to-mysql-migration/)
 
 ## Books
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
