@@ -44,6 +44,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [BFF vs API Gateway Pattern](https://alirezafarokhi.medium.com/bff-pattern-vs-gateway-pattern-45706ffb9978)
 - [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
 - [Geo Hashing](https://www.pubnub.com/guides/what-is-geohashing/)
+- [gRPC vs. JSON](https://encore.dev/resources/grpc-vs-json) & (https://medium.com/sahibinden-technology/benchmarking-rest-vs-grpc-5d4b34360911)
 
 ## System Design Interview Problems
 ### Easy
