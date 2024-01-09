@@ -42,6 +42,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 - [BFF vs API Gateway Pattern](https://alirezafarokhi.medium.com/bff-pattern-vs-gateway-pattern-45706ffb9978)
+- [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
 
 ## System Design Interview Problems
 ### Easy
