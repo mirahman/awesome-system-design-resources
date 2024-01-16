@@ -46,6 +46,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Geo Hashing](https://www.pubnub.com/guides/what-is-geohashing/)
 - [gRPC vs. JSON](https://encore.dev/resources/grpc-vs-json)
 - [Benchmarking — REST vs. gRPC](https://medium.com/sahibinden-technology/benchmarking-rest-vs-grpc-5d4b34360911)
+- [Uber H3 Hexagonal Modeling](https://docs.heavy.ai/sql/data-manipulation-dml/geospatial-capabilities/uber-h3-hexagonal-modeling)
 
 ## System Design Interview Problems
 ### Easy
